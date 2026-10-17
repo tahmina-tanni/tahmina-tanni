@@ -5,15 +5,20 @@
 
 - 🌱 I’m currently learning **React.js and Next.js TypeScript and modern web development Data structures and algorithms Python for biomedical data analysis Bioinformatics and cancer research fundamentals**
 
-- 👯 I’m looking to collaborate on **Full-stack web development projects Healthcare technology and biomedical research projects**
+- 👯 I’m looking to collaborate on **Full-stack web development projects**
+- **Healthcare technology and biomedical research projects**
 
-- 🤝 I’m looking for help with **Learning bioinformatics and computational biology Exploring computational cancer research Building real-world full-stack applications**
+- 🤝 I’m looking for help with **Learning bioinformatics and computational biology**
+-  **Exploring computational cancer research**
+-   **Building real-world full-stack applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tahmina-tanni](https://github.com/tahmina-tanni)
 
-- 📝 I regularly write articles on [Not publishing articles yet](Not publishing articles yet)
+- 📝 I regularly write articles on [Not publishing articles yet]
 
-- 💬 Ask me about **My Software Engineering journey Web development projects My interest in biomedical and cancer research**
+- 💬 Ask me about **My Software Engineering journey**
+-  **Web development projects**
+-  **My interest in biomedical and cancer research**
 
 - 📫 How to reach me **tahminatanni855@gmail.com**
 
