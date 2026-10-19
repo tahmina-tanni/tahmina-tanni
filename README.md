@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **Bridging Software Engineering & Biomedical Research.**
 
-- 🌱 I’m currently learning **React.js and Next.js TypeScript and modern web development Data structures and algorithms Python for biomedical data analysis Bioinformatics and cancer research fundamentals**
+- 🌱 I’m currently learning **React.js, Next.js, TypeScript and modern web development.**
+- **Learning ML for biomedical data analysis, Bioinformatics and cancer research fundamentals**
 
 - 👯 I’m looking to collaborate on **Full-stack web development projects**
 - **Healthcare technology and biomedical research projects**
